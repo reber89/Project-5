@@ -1,0 +1,20 @@
+
+body {
+background-color:#C8E6C9;
+padding:100px;
+}
+
+*{
+	text-align:center;
+}
+input{
+	height:600px;
+	width:600px;
+	font-family: 'Indie Flower', cursive;
+	font-size:50px;
+	background-color:#E8F5E9;
+}
+p{
+	font-size:30px;
+	font-family: 'Indie Flower', cursive;
+}
